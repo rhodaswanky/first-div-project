@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+img{
+    height: 800px;
+    width: 40%;
+    border: 10px solid white;
+    margin-left: 510px;
+}
+
+h1{
+    color: red;
+    margin-left: 600px;
+    font-family: 'Libre Baskerville',  serif;
+    font: size 600;;
+}
+
+h2{
+    color:aqua;
+    margin-left: 600px;
+    font-size: x-large;
+}
